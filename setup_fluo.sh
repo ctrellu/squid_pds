@@ -11,7 +11,7 @@ sudo apt install python3-pyqt5.qtsvg
 # clone the repo
 sudo apt-get install git -y
 cd ~/Desktop
-git clone https://github.com/livingpatterns/squid_fluo.git
+git clone https://github.com/livingpatterns/squid_imaging.git
 cd squid_fluo/software
 mkdir cache
 
